@@ -1,0 +1,9 @@
+/*
+** 该置灰全公司网站有效，列表见：https://km.oa.dragonest.com/pages/viewpage.action?pageId=137003885
+*/
+
+console.log("gray.js is disabled now!");
+// (function() {
+//   document.documentElement.style =
+//     "-webkit-filter: grayscale(100%); -moz-filter: grayscale(100%);-ms-filter: grayscale(100%);filter: grayscale(100%); ";
+// })();
